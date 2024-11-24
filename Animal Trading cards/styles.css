@@ -1,0 +1,36 @@
+/* add your CSS here */
+.card{
+  width:300px;
+  border: 1px solid grey;
+  padding : 10px;
+  box-shadow: 5px 5px 10px grey;
+}
+
+.dogimage{
+  width:300px;
+  height:300px;
+  border-radius : 10px;
+  margin-bottom: 20px;
+}
+.name{
+  margin-bottom:20px;
+}
+.container{
+  padding : 5px 10px;
+  border: 1px solid grey;
+}
+
+.facts{
+  font-style:italic;
+}
+
+ul {
+  list-style-type : none;
+  margin : 0;
+  padding:0;
+}
+
+ul li span{
+  font-weight : bold;
+  margin-right:5px;
+}
